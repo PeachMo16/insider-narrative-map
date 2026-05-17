@@ -4,6 +4,17 @@ A Form 4 filing tells us what an insider did.
 
 This project asks what story the company was selling when they did it.
 
+## QUBT Case Study
+
+![QUBT insider sell timeline](./QUBT_insider_sold_before_peak_social.png)
+
+Full case study: [QUBT case study PDF](./QUBT%20case%20study.pdf)
+
+Data:
+- [QUBT transactions](./QUBT%20transactions.csv)
+- [QUBT events](./QUBT%20events.csv)
+- [QUBT insiders](./QUBT%20insiders.csv)
+
 ## What this project tracks
 
 - SEC Form 4 insider transactions
