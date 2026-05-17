@@ -1,0 +1,16 @@
+event_date,event_type,headline,details,source
+2001-01-01,founding,Ticketcart Inc. founded,Selling ink-jet cartridges online for HP/Canon/Epson/Lexmark,SEC 10-K
+2007-07-25,acquisition,Acquired Innovative Beverage Group,Pivoted to wholesale distribution of non-alcoholic beverages and energy drinks,SEC 10-K
+2013-01-01,shutdown,Ceased operations,Incurred significant losses; unable to sustain operations,SEC 10-K
+2017-10-26,legal,Shareholder lawsuit - fraud and breach of fiduciary duties,Lost suit; went into receivership,Hudson Labs research
+2018-02-01,ownership_change,Convergent Risk Group acquires shell for $155K,Robert Liscouski (CRG CEO) becomes board chairman; redomiciled to Delaware,SEC 10-K/A
+2018-07-03,name_change,Renamed to Quantum Computing Inc. (QUBT),200:1 reverse stock split; FINRA approved symbol change to QUBT,8-K / GlobeNewsWire
+2021-02-23,board_appointment,Robert Fagenson appointed to board,Former NYSE Floor Governor and Vice Chairman; Chair of Audit Committee; advances Nasdaq listing requirements,8-K / Press Release
+2022-02-18,strategic_agreement,Note Purchase Agreement with QPhoton,$2.5M in unsecured promissory notes to QPhoton; exclusivity agreement,8-K
+2022-05-19,acquisition_announced,Definitive agreement to acquire QPhoton,Quantum photonics innovation company; stock + preferred + warrants consideration,8-K
+2022-06-16,acquisition_closed,QPhoton acquisition completed,QPhoton becomes wholly-owned subsidiary; Yuping Huang becomes Chief Quantum Officer and board member,8-K
+2024-05-01,audit_issue,Delayed 10-Q filing due to BF Borger audit misconduct,Replaced auditor with BPM LLP; material adjustments to 2022-2023 results,SEC Filing
+2024-06-01,auditor_change,Replaced auditor BF Borger with BPM LLP,Re-audit led to material adjustments; net loss decreased by $2.7M for FY23,SEC Filing
+2025-12-17,acquisition_announced,Agreement to acquire Luminar Semiconductor Inc,$110M all-cash; stalking horse bidder in Luminar Technologies bankruptcy; photonic components and patents,8-K
+2026-02-01,acquisition_closed,Luminar Semiconductor acquisition completed,Added laser/detector/packaging/manufacturing capabilities and established customer base,8-K
+2026-03-31,acquisition_closed,NuCrypt LLC acquisition completed,Added quantum communications capabilities,8-K / 10-Q
