@@ -44,3 +44,7 @@ It is an insider behavior and narrative research framework.
 This project is for research and educational purposes only.
 
 Not financial advice.
+
+All insider ownership references are based on reported ownership in public filings reviewed for this dataset.
+
+This analysis does not allege fraud, insider trading violations, or coordination. It only maps public filing timelines.
